@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+
+/.idea/workspace.xml
+/.idea/dataSources.ids
+/.idea/vagrant.xml
+/.idea/inspectionProfiles
+!/.idea/inspectionProfiles/Project_Default.xml
+/.idea/dataSources.local.xml
